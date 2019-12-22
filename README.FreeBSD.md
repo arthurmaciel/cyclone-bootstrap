@@ -5,7 +5,7 @@ Instructions for building on FreeBSD
 
 #### Install dependencies.
 
-FreeBSD (as other BSDs) have a different `make` program we also need to install GNU Make.
+FreeBSD (as other BSDs) have a different `make` program, so we also need to install GNU Make along other essential libraries.
 
 Run the following command:
 
